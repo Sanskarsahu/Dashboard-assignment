@@ -1,4 +1,4 @@
-#Dashboard Application
+*Dashboard Application*
 This is a React-based dashboard application where users can manage widgets under different categories. The app also supports searching for widgets globally across categories.
 
 ##Features
